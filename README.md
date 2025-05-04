@@ -30,8 +30,6 @@ Each sample is structured as:
 
 ├── README.md # Project documentation
 
-├── requirements.txt # Python dependencies
-
 ---
 
 ## 📦 Dependencies
