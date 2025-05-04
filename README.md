@@ -23,9 +23,13 @@ Each sample is structured as:
 ## 🔧 Project Structure
 
 ├── main.ipynb # Full implementation
+
 ├── ECG5000_train.pickle # Training dataset
+
 ├── ECG5000_validation.pickle# Validation dataset
+
 ├── README.md # Project documentation
+
 ├── requirements.txt # Python dependencies
 
 ---
